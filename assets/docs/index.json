@@ -2,21 +2,21 @@
   {
     "slug": "ClaudeCode/Setup",
     "titles": {
-      "zh": "Claude Code Setup Guide (Windows) — SPARK LLM Service",
-      "en": "Claude Code Setup Guide (Windows) — SPARK LLM Service"
+      "en": "Claude Code Setup Guide (Windows) — SPARK LLM Service",
+      "zh": "Claude Code 安裝設定指南（Windows）— SPARK LLM 服務"
     },
     "protected": true,
     "locales": {
-      "zh": {
-        "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.zh.enc",
-        "salt": "n3tbi6FsBB+nERASW5fZgA==",
-        "iv": "d+G1wGzpsYVg2Txg",
-        "iterations": 100000
-      },
       "en": {
         "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.en.enc",
-        "salt": "oWEey1PRSL5m8nMU68Fjqg==",
-        "iv": "4VOHTcFfjFacjnn6",
+        "salt": "LzEuGqI6+u1HkmzBeWppWg==",
+        "iv": "nZ9bJsnt2mV1jk8d",
+        "iterations": 100000
+      },
+      "zh": {
+        "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.zh.enc",
+        "salt": "1pxvHMGHmdj++PbYb6WE8g==",
+        "iv": "SA6nWxVdfBVzFNDp",
         "iterations": 100000
       }
     }
@@ -31,14 +31,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.en.enc",
-        "salt": "c8+ZHayvqbIwP8nAQYitMA==",
-        "iv": "tCHruYL7jQmDQ6PN",
+        "salt": "t3VTS19J77v7mUkdIU/P0w==",
+        "iv": "gC9ovp+PmktCAgyh",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.zh.enc",
-        "salt": "L0QrYCbvkGe/xXVo5sdTWA==",
-        "iv": "LE92KvSzA9oN2afS",
+        "salt": "/GH18mnayN+du5dni9jUDA==",
+        "iv": "r2dVNjJS5hHYVF8e",
         "iterations": 100000
       }
     }
@@ -53,14 +53,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.en.enc",
-        "salt": "7Py0WBVGvdFnVM6LlULjrw==",
-        "iv": "z8vmon/QwQm3mEQS",
+        "salt": "x1b3Ou2fADc4qzf8rAqT8w==",
+        "iv": "RY8kZlYCb6Aa8beb",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.zh.enc",
-        "salt": "EkR+grwmEoF9BJAZzIBe3g==",
-        "iv": "7DugUDOD/5D6MRka",
+        "salt": "4QWmKpZBCQxuotE33TQuhQ==",
+        "iv": "cAA5LVocjxVYVjTs",
         "iterations": 100000
       }
     }

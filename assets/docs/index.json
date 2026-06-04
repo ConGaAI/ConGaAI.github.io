@@ -9,14 +9,14 @@
     "locales": {
       "zh": {
         "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.zh.enc",
-        "salt": "e+Bnbw90tR+cc/ywr43P2w==",
-        "iv": "Gg9J41wcMEUo3w0w",
+        "salt": "n3tbi6FsBB+nERASW5fZgA==",
+        "iv": "d+G1wGzpsYVg2Txg",
         "iterations": 100000
       },
       "en": {
         "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.en.enc",
-        "salt": "oLhaRIzHVCWRDtALOq2S1A==",
-        "iv": "g8t2XB7MHIY+Gsd0",
+        "salt": "oWEey1PRSL5m8nMU68Fjqg==",
+        "iv": "4VOHTcFfjFacjnn6",
         "iterations": 100000
       }
     }
@@ -31,14 +31,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.en.enc",
-        "salt": "kNAzuzsgoLScUgogSHMVuQ==",
-        "iv": "QrWdtCvJDQqueIid",
+        "salt": "c8+ZHayvqbIwP8nAQYitMA==",
+        "iv": "tCHruYL7jQmDQ6PN",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.zh.enc",
-        "salt": "FEyetTzQsApY2mkxOsBkuQ==",
-        "iv": "f24EFRIoTPBwbyrF",
+        "salt": "L0QrYCbvkGe/xXVo5sdTWA==",
+        "iv": "LE92KvSzA9oN2afS",
         "iterations": 100000
       }
     }
@@ -53,14 +53,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.en.enc",
-        "salt": "NVUdxvVnw/NDmQipNWID1Q==",
-        "iv": "aijr/wv3rjJUDCw+",
+        "salt": "7Py0WBVGvdFnVM6LlULjrw==",
+        "iv": "z8vmon/QwQm3mEQS",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.zh.enc",
-        "salt": "yKW6hFbHOYGG6nn24FLgww==",
-        "iv": "xf/UiDCcbEe56NPQ",
+        "salt": "EkR+grwmEoF9BJAZzIBe3g==",
+        "iv": "7DugUDOD/5D6MRka",
         "iterations": 100000
       }
     }

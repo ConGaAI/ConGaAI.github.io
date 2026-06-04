@@ -1,0 +1,11 @@
+[
+  {
+    "slug": "example/getting-started",
+    "title": "快速開始",
+    "protected": true,
+    "ciphertextUrl": "./assets/docs/example/getting-started.enc",
+    "salt": "mSIr3mS8OpdHZmE4y76nkw==",
+    "iv": "oNfNN+CxAUc0j3kz",
+    "iterations": 100000
+  }
+]

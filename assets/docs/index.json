@@ -4,8 +4,8 @@
     "title": "快速開始",
     "protected": true,
     "ciphertextUrl": "./assets/docs/example/getting-started.enc",
-    "salt": "UqMjz6RvKyKzFax8bt4YQQ==",
-    "iv": "tGsNR3OvoPoElJ1e",
+    "salt": "8K0phqTucAc4yXXD5W+WxA==",
+    "iv": "Z9asknpd5WLSmh02",
     "iterations": 100000
   }
 ]

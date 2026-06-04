@@ -2,21 +2,21 @@
   {
     "slug": "ClaudeCode/Setup",
     "titles": {
-      "en": "Claude Code Setup Guide (Windows) — SPARK LLM Service",
-      "zh": "Claude Code 安裝設定指南（Windows）— SPARK LLM 服務"
+      "en": "Claude Code Setup Guide (Windows)",
+      "zh": "Claude Code 安裝設定指南（Windows）"
     },
     "protected": true,
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.en.enc",
-        "salt": "yXxARqIjQOiezNITjg4nzA==",
-        "iv": "Z6XlFgJiEMzegJIO",
+        "salt": "hXBGnQNS0vcJYpVsXZF+EQ==",
+        "iv": "Scura07OBf6wJ5fM",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.zh.enc",
-        "salt": "fmJgOvchv0z43n6JczTxhg==",
-        "iv": "1pu+jBc6EcfpPsLd",
+        "salt": "TpLAMVdnbE+MhR4+y+YsGg==",
+        "iv": "9uewDFc56lUIRRZX",
         "iterations": 100000
       }
     }
@@ -24,21 +24,21 @@
   {
     "slug": "LLM API/Auth",
     "titles": {
-      "en": "LLM API SSH Public Key Authorization",
-      "zh": "LLM API SSH 公鑰授權說明"
+      "en": "SSH Public Key Authorization",
+      "zh": "SSH 公鑰授權說明"
     },
     "protected": true,
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.en.enc",
-        "salt": "w6pg014eIMIJSSjb1nnakg==",
-        "iv": "O6Ml7nsd9HjvRzlc",
+        "salt": "5DdHGzNOXQdTSN/0ogPKSw==",
+        "iv": "KZub/Y1+Ac4YtbJh",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.zh.enc",
-        "salt": "50azvcT/Xi5siFvJ7B31xA==",
-        "iv": "0eKg26py4GKK4CMV",
+        "salt": "nGqqR4hY+SRD+2beSNonLA==",
+        "iv": "zWCSswlT79isBfyq",
         "iterations": 100000
       }
     }
@@ -46,21 +46,21 @@
   {
     "slug": "LLM API/Connection",
     "titles": {
-      "en": "LLM API Connection & Usage Guide",
-      "zh": "LLM API 連線與使用說明"
+      "en": "Connection & Usage Guide",
+      "zh": "連線與使用說明"
     },
     "protected": true,
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.en.enc",
-        "salt": "8j3QgrOXtOtWj03qZgQCPw==",
-        "iv": "RcVDKRo2Q33ldFt0",
+        "salt": "uA/RlEcMkMdp5xMZUvvOJg==",
+        "iv": "9+B2xCEV4J+8hqWt",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.zh.enc",
-        "salt": "SfrBw+Yp+cxllKrPI/EnDQ==",
-        "iv": "t1tVx7uiKMKSajMY",
+        "salt": "t2ufatvsjUUdnN1XZePmNQ==",
+        "iv": "x+gXx/x/tbbBROqM",
         "iterations": 100000
       }
     }

@@ -1,11 +1,68 @@
 [
   {
-    "slug": "example/getting-started",
-    "title": "快速開始",
+    "slug": "ClaudeCode/Setup",
+    "titles": {
+      "zh": "Claude Code Setup Guide (Windows) — SPARK LLM Service",
+      "en": "Claude Code Setup Guide (Windows) — SPARK LLM Service"
+    },
     "protected": true,
-    "ciphertextUrl": "./assets/docs/example/getting-started.enc",
-    "salt": "Es4bwetTXRdQ++7UjO+2tQ==",
-    "iv": "ChoLWnp6K5US3PFe",
-    "iterations": 100000
+    "locales": {
+      "zh": {
+        "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.zh.enc",
+        "salt": "e+Bnbw90tR+cc/ywr43P2w==",
+        "iv": "Gg9J41wcMEUo3w0w",
+        "iterations": 100000
+      },
+      "en": {
+        "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.en.enc",
+        "salt": "oLhaRIzHVCWRDtALOq2S1A==",
+        "iv": "g8t2XB7MHIY+Gsd0",
+        "iterations": 100000
+      }
+    }
+  },
+  {
+    "slug": "LLM API/Auth",
+    "titles": {
+      "en": "LLM API SSH Public Key Authorization",
+      "zh": "LLM API SSH 公鑰授權說明"
+    },
+    "protected": true,
+    "locales": {
+      "en": {
+        "ciphertextUrl": "./assets/docs/LLM API/Auth.en.enc",
+        "salt": "kNAzuzsgoLScUgogSHMVuQ==",
+        "iv": "QrWdtCvJDQqueIid",
+        "iterations": 100000
+      },
+      "zh": {
+        "ciphertextUrl": "./assets/docs/LLM API/Auth.zh.enc",
+        "salt": "FEyetTzQsApY2mkxOsBkuQ==",
+        "iv": "f24EFRIoTPBwbyrF",
+        "iterations": 100000
+      }
+    }
+  },
+  {
+    "slug": "LLM API/Connection",
+    "titles": {
+      "en": "LLM API Connection & Usage Guide",
+      "zh": "LLM API 連線與使用說明"
+    },
+    "protected": true,
+    "locales": {
+      "en": {
+        "ciphertextUrl": "./assets/docs/LLM API/Connection.en.enc",
+        "salt": "NVUdxvVnw/NDmQipNWID1Q==",
+        "iv": "aijr/wv3rjJUDCw+",
+        "iterations": 100000
+      },
+      "zh": {
+        "ciphertextUrl": "./assets/docs/LLM API/Connection.zh.enc",
+        "salt": "yKW6hFbHOYGG6nn24FLgww==",
+        "iv": "xf/UiDCcbEe56NPQ",
+        "iterations": 100000
+      }
+    }
   }
 ]

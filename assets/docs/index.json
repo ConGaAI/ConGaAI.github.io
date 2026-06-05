@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "ClaudeCode/Setup",
+    "titles": {
+      "en": "Claude Code Setup Guide (Windows)",
+      "zh": "Claude Code 安裝設定指南（Windows）"
+    },
+    "protected": true,
+    "locales": {
+      "en": {
+        "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.en.enc",
+        "salt": "56FH3QeUdf6pJNc588p2dw==",
+        "iv": "HZtvrMS4DwgEsI/1",
+        "iterations": 100000
+      },
+      "zh": {
+        "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.zh.enc",
+        "salt": "Z/XNZvFgTXU3blCmFqyvxw==",
+        "iv": "HW1FeTjmm6VON7aM",
+        "iterations": 100000
+      }
+    }
+  },
+  {
+    "slug": "LLM API/Auth",
+    "titles": {
+      "en": "SSH Public Key Authorization",
+      "zh": "SSH 公鑰授權說明"
+    },
+    "protected": true,
+    "locales": {
+      "en": {
+        "ciphertextUrl": "./assets/docs/LLM API/Auth.en.enc",
+        "salt": "9PmIaOcCaCdY7haczL4otA==",
+        "iv": "AiwbK0Pwe0CpDnzK",
+        "iterations": 100000
+      },
+      "zh": {
+        "ciphertextUrl": "./assets/docs/LLM API/Auth.zh.enc",
+        "salt": "BG1QpQlw/o4TAPl25EjlnA==",
+        "iv": "cwqducb3av1WRFtS",
+        "iterations": 100000
+      }
+    }
+  },
+  {
+    "slug": "LLM API/Connection",
+    "titles": {
+      "en": "Connection & Usage Guide",
+      "zh": "連線與使用說明"
+    },
+    "protected": true,
+    "locales": {
+      "en": {
+        "ciphertextUrl": "./assets/docs/LLM API/Connection.en.enc",
+        "salt": "mwLPKs7Sm5zJpF6oMBvk4g==",
+        "iv": "LkmSZ16iuVskHMTC",
+        "iterations": 100000
+      },
+      "zh": {
+        "ciphertextUrl": "./assets/docs/LLM API/Connection.zh.enc",
+        "salt": "n1IBVNOBj5pvgBkPR0l8Yw==",
+        "iv": "PNykMfm85Wzgxg7s",
+        "iterations": 100000
+      }
+    }
+  }
+]

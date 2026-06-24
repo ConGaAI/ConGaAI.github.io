@@ -64,5 +64,27 @@
         "iterations": 100000
       }
     }
+  },
+  {
+    "slug": "Codex/CodexSetupGuide",
+    "titles": {
+      "en": "Codex Setup Guide",
+      "zh": "Codex 安裝設定指南"
+    },
+    "protected": true,
+    "locales": {
+      "en": {
+        "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.en.enc",
+        "salt": "vz9Jgo73EtldfNJYcLuD+Q==",
+        "iv": "peqgzPhHNV9f+dG5",
+        "iterations": 100000
+      },
+      "zh": {
+        "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.zh.enc",
+        "salt": "owJCXoKGMAu3Bs14hQ4nYw==",
+        "iv": "557XhOF4/jVHLczo",
+        "iterations": 100000
+      }
+    }
   }
 ]

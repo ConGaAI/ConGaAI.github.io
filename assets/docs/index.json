@@ -9,14 +9,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.en.enc",
-        "salt": "56FH3QeUdf6pJNc588p2dw==",
-        "iv": "HZtvrMS4DwgEsI/1",
+        "salt": "QENlyCuT4NSKqSh4qmdiXQ==",
+        "iv": "LZMLSVlDC1nmykEC",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.zh.enc",
-        "salt": "Z/XNZvFgTXU3blCmFqyvxw==",
-        "iv": "HW1FeTjmm6VON7aM",
+        "salt": "5zmv+PZ64cwKExqAzd3bFA==",
+        "iv": "omsTlyQ7GPbBC58y",
         "iterations": 100000
       }
     }
@@ -31,14 +31,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.en.enc",
-        "salt": "9PmIaOcCaCdY7haczL4otA==",
-        "iv": "AiwbK0Pwe0CpDnzK",
+        "salt": "+d43kKVYSmzLjCHRzmbvOQ==",
+        "iv": "XihGK13ocqkzcfK7",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.zh.enc",
-        "salt": "BG1QpQlw/o4TAPl25EjlnA==",
-        "iv": "cwqducb3av1WRFtS",
+        "salt": "GziiE+B1gXnHCvzVrD6weg==",
+        "iv": "Fp8Tw57t3iyAb8d1",
         "iterations": 100000
       }
     }
@@ -53,36 +53,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.en.enc",
-        "salt": "mwLPKs7Sm5zJpF6oMBvk4g==",
-        "iv": "LkmSZ16iuVskHMTC",
+        "salt": "qx8L8Kqn9W6H76MwfF/ScA==",
+        "iv": "iapjC2fc1NUG0Bgj",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.zh.enc",
-        "salt": "n1IBVNOBj5pvgBkPR0l8Yw==",
-        "iv": "PNykMfm85Wzgxg7s",
-        "iterations": 100000
-      }
-    }
-  },
-  {
-    "slug": "Codex/CodexSetupGuide",
-    "titles": {
-      "en": "Codex Setup Guide",
-      "zh": "Codex 安裝設定指南"
-    },
-    "protected": true,
-    "locales": {
-      "en": {
-        "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.en.enc",
-        "salt": "vz9Jgo73EtldfNJYcLuD+Q==",
-        "iv": "peqgzPhHNV9f+dG5",
-        "iterations": 100000
-      },
-      "zh": {
-        "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.zh.enc",
-        "salt": "owJCXoKGMAu3Bs14hQ4nYw==",
-        "iv": "557XhOF4/jVHLczo",
+        "salt": "khdYwIGRbsvNSInJ0zLyJQ==",
+        "iv": "MHy11rHaoXc6ZdEr",
         "iterations": 100000
       }
     }

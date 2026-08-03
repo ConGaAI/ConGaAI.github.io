@@ -9,14 +9,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.en.enc",
-        "salt": "QiQwkn3ySItWZtf4gYSN4w==",
-        "iv": "WYWmihZ/9WY3zr6K",
+        "salt": "GMRSvv2z2Kkv5nEtxq4wDw==",
+        "iv": "cZeWMTCXGy1pc7TO",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.zh.enc",
-        "salt": "GXjGTuuyrX7+39JwQDEloA==",
-        "iv": "lg3HV5Gonn/cBoBv",
+        "salt": "jPAjqEAjtd5MZTfevlMf5w==",
+        "iv": "o02Uq5mKKZnpZ+as",
         "iterations": 100000
       }
     }
@@ -24,21 +24,21 @@
   {
     "slug": "Codex/CodexSetupGuide",
     "titles": {
-      "en": "Codex Setup Guide",
-      "zh": "Codex 安裝設定指南"
+      "en": "ConGa LLM + Codex CLI Setup Guide",
+      "zh": "ConGa LLM + Codex CLI 設定指南"
     },
     "protected": true,
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.en.enc",
-        "salt": "86Ousw6MoetiXbFywww6Pw==",
-        "iv": "RHAQFerNQgeR4ohr",
+        "salt": "2muF5T58u0GLWnd3N4v2fQ==",
+        "iv": "GBatf9s9XsmnDC/8",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.zh.enc",
-        "salt": "TOuwY30SMKBhW019fsKWoQ==",
-        "iv": "GMaN/XJr76001wuX",
+        "salt": "QuDWC4JIB0zZUoiKvwivAg==",
+        "iv": "iuOiP1sleLqf/Szb",
         "iterations": 100000
       }
     }
@@ -53,14 +53,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.en.enc",
-        "salt": "6bdkxjax5ciVxDi1OiCOmw==",
-        "iv": "ZidyVICGiZvEERzG",
+        "salt": "NUTbD1/M/+oIchyyTyvx8g==",
+        "iv": "36ZwILPwkWwTJqPQ",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.zh.enc",
-        "salt": "W1xpnFozEN38FqdziZLkSg==",
-        "iv": "Twg6iX4nw2eWcdyn",
+        "salt": "gQhUMFMiWn6k5PtS4dYebw==",
+        "iv": "e79o06aOM5iOywfX",
         "iterations": 100000
       }
     }
@@ -75,14 +75,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.en.enc",
-        "salt": "stI6pAll+4453Ek6LSETHg==",
-        "iv": "z92dcXx/gU3MDm2a",
+        "salt": "MNF0QYvNYaagV0lBb79M3w==",
+        "iv": "cg28pvcg1sLuFEN5",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.zh.enc",
-        "salt": "ItCj31xI863ekGdLjdPjZg==",
-        "iv": "OndiVDcf+CvgRAoc",
+        "salt": "XWpREiXHM5NXTpNX/HN+bg==",
+        "iv": "UHdT8JcIGkEcDjM8",
         "iterations": 100000
       }
     }

@@ -22,6 +22,28 @@
     }
   },
   {
+    "slug": "Codex/CodexSetupGuide",
+    "titles": {
+      "en": "Codex Setup Guide",
+      "zh": "Codex 安裝設定指南"
+    },
+    "protected": true,
+    "locales": {
+      "en": {
+        "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.en.enc",
+        "salt": "86Ousw6MoetiXbFywww6Pw==",
+        "iv": "RHAQFerNQgeR4ohr",
+        "iterations": 100000
+      },
+      "zh": {
+        "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.zh.enc",
+        "salt": "TOuwY30SMKBhW019fsKWoQ==",
+        "iv": "GMaN/XJr76001wuX",
+        "iterations": 100000
+      }
+    }
+  },
+  {
     "slug": "LLM API/Auth",
     "titles": {
       "en": "SSH Public Key Authorization",
@@ -61,28 +83,6 @@
         "ciphertextUrl": "./assets/docs/LLM API/Connection.zh.enc",
         "salt": "ItCj31xI863ekGdLjdPjZg==",
         "iv": "OndiVDcf+CvgRAoc",
-        "iterations": 100000
-      }
-    }
-  },
-  {
-    "slug": "Codex/CodexSetupGuide",
-    "titles": {
-      "en": "Codex Setup Guide",
-      "zh": "Codex 安裝設定指南"
-    },
-    "protected": true,
-    "locales": {
-      "en": {
-        "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.en.enc",
-        "salt": "+5f69O+6svLlTCBsEjTmxQ==",
-        "iv": "q7Uz1XEyLSDUbl3u",
-        "iterations": 100000
-      },
-      "zh": {
-        "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.zh.enc",
-        "salt": "t0sr4JgJYcbbTsbD0OcZTg==",
-        "iv": "2RtA36MNKejlPFaG",
         "iterations": 100000
       }
     }

@@ -9,14 +9,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.en.enc",
-        "salt": "GMRSvv2z2Kkv5nEtxq4wDw==",
-        "iv": "cZeWMTCXGy1pc7TO",
+        "salt": "Ew+ZplmXJqzrO8YkILuJDA==",
+        "iv": "cjP3bUaVeS5C+C+U",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/ClaudeCode/Setup.zh.enc",
-        "salt": "jPAjqEAjtd5MZTfevlMf5w==",
-        "iv": "o02Uq5mKKZnpZ+as",
+        "salt": "b/rcatO3gE+CbDkJ5haJ7Q==",
+        "iv": "+y7Ml4hXkVZ8pL1h",
         "iterations": 100000
       }
     }
@@ -31,14 +31,36 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.en.enc",
-        "salt": "2muF5T58u0GLWnd3N4v2fQ==",
-        "iv": "GBatf9s9XsmnDC/8",
+        "salt": "38cLlvvaCuWR/Y61Pli70w==",
+        "iv": "a36hartY9LvbyqlC",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/Codex/CodexSetupGuide.zh.enc",
-        "salt": "QuDWC4JIB0zZUoiKvwivAg==",
-        "iv": "iuOiP1sleLqf/Szb",
+        "salt": "b6C5sBbKCe1CJngv4C14mA==",
+        "iv": "FmPkPUfv6eQodPaY",
+        "iterations": 100000
+      }
+    }
+  },
+  {
+    "slug": "Grok/GrokSetupGuide",
+    "titles": {
+      "en": "Grok Build (xAI CLI) Setup Guide (Windows)",
+      "zh": "Grok Build（xAI CLI）安裝設定指南（Windows）"
+    },
+    "protected": true,
+    "locales": {
+      "en": {
+        "ciphertextUrl": "./assets/docs/Grok/GrokSetupGuide.en.enc",
+        "salt": "xplIIZyYCyd9luB1U6y3Fw==",
+        "iv": "fCqc0DE6PI5psHIZ",
+        "iterations": 100000
+      },
+      "zh": {
+        "ciphertextUrl": "./assets/docs/Grok/GrokSetupGuide.zh.enc",
+        "salt": "NeoLg709xtSZmB2ng09YhA==",
+        "iv": "pOqPAsP3lyjkojR/",
         "iterations": 100000
       }
     }
@@ -53,14 +75,14 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.en.enc",
-        "salt": "NUTbD1/M/+oIchyyTyvx8g==",
-        "iv": "36ZwILPwkWwTJqPQ",
+        "salt": "g4R5D0c1QlD7th1y042BBw==",
+        "iv": "rRrLNhsarMNoA87n",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Auth.zh.enc",
-        "salt": "gQhUMFMiWn6k5PtS4dYebw==",
-        "iv": "e79o06aOM5iOywfX",
+        "salt": "s0k5kL1dH5uvztmu/n81TQ==",
+        "iv": "I3QRclD38oQMWn6h",
         "iterations": 100000
       }
     }
@@ -75,14 +97,36 @@
     "locales": {
       "en": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.en.enc",
-        "salt": "MNF0QYvNYaagV0lBb79M3w==",
-        "iv": "cg28pvcg1sLuFEN5",
+        "salt": "XfCsIqnwSUJIE5n2myOzJg==",
+        "iv": "glF+I7eO0/Crc2yf",
         "iterations": 100000
       },
       "zh": {
         "ciphertextUrl": "./assets/docs/LLM API/Connection.zh.enc",
-        "salt": "XWpREiXHM5NXTpNX/HN+bg==",
-        "iv": "UHdT8JcIGkEcDjM8",
+        "salt": "DL1Z04rleUMcEap508WUHQ==",
+        "iv": "rjjlsbtStLybsmta",
+        "iterations": 100000
+      }
+    }
+  },
+  {
+    "slug": "OpenCode/OpenCodeSetupGuide",
+    "titles": {
+      "en": "OpenCode Setup Guide (Windows)",
+      "zh": "OpenCode 安裝設定指南（Windows）"
+    },
+    "protected": true,
+    "locales": {
+      "en": {
+        "ciphertextUrl": "./assets/docs/OpenCode/OpenCodeSetupGuide.en.enc",
+        "salt": "EWbhDnZ3ZXnjxdNd4j9ZJw==",
+        "iv": "Qc0zp7xEe4FGGre7",
+        "iterations": 100000
+      },
+      "zh": {
+        "ciphertextUrl": "./assets/docs/OpenCode/OpenCodeSetupGuide.zh.enc",
+        "salt": "JA4mXyMBVrz/ABn4kpZEdw==",
+        "iv": "v/8ZOvY/Z1CYiCiz",
         "iterations": 100000
       }
     }

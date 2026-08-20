@@ -1,0 +1,40 @@
+# 安裝與下載
+
+公開說明：[GitHub · 安裝與下載](https://github.com/ConGaAI/AI-Forge/blob/main/docs/zh-TW/install.md)
+
+請到 [最新發行頁](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest) 下載對應你電腦的檔案。
+
+| 你的電腦 | 下載這個檔 |
+|---|---|
+| Windows | `ai-forge-windows-amd64.exe` |
+| Mac（Apple 晶片） | `ai-forge-darwin-arm64` |
+| 一般 Linux 電腦 | `ai-forge-linux-amd64` |
+| ARM 版 Linux | `ai-forge-linux-arm64` |
+
+同一個版本也會附核對用的小檔（副檔名 `.sha256`）。一般使用只要下載主程式即可。
+
+## Windows
+
+1. 下載 `.exe` 檔。
+2. 雙擊開啟。
+3. Windows 11 通常可直接使用。若 Windows 10 打不開，請先把系統更新到較新版本後再試。
+
+## Mac
+
+1. 下載檔案後，在「訪達」裡找到它。
+2. 第一次開啟時，系統可能提示無法確認開發者。請到「系統設定 → 隱私權與安全性」允許這次開啟。
+3. 之後即可從應用程式或該檔案再開一次。
+
+## Linux
+
+1. 下載檔案。
+2. 在檔案內容中允許「當成程式執行」。
+3. 雙擊開啟，或從應用清單啟動。
+
+## 開啟之後
+
+視窗上方可以切換深色／淺色，以及中文／英文。這個選擇會記住，下次開啟仍有效。
+
+`Ctrl+K`（Mac 為 `⌘K`）可打開搜尋，用來跳頁或連線、重新檢查。數字鍵 `1`–`5` 可切換左側五個畫面。
+
+**下一步：** [第一次使用](/docs/AI-Forge/FirstRun)
